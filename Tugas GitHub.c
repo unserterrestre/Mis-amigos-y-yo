@@ -8,6 +8,18 @@ int main(){
 	"\n2. Pengurangan\n3. Perkalian\n4. Pembagian\nPilihlah salah satu operasi: ");
 	scanf("%d", &operasi);
 
+	while (operasi < 1 || operasi > 4) {
+        printf("\nProgram ini menyediakan kalkulator bagi operasi:\n");
+        printf("1. Pertambahan\n2. Pengurangan\n3. Perkalian\n4. Pembagian\n");
+        printf("Pilihlah salah satu operasi (1-4): ");
+        scanf("%d", &operasi);
+
+        // Memberikan pesan kesalahan jika input tidak sesuai
+        if (operasi < 1 || operasi > 4) {
+            printf(">> Pilihan tidak valid. Silakan masukkan angka 1, 2, 3, atau 4.\n");
+        }
+    }
+
 	  if(operasi == 1){
       printf("\nProgram melaksanakan program pertambahan.\nBerapakah bilangan pertama? Jawaban: ");
       scanf("%f", &bilangan_pertama);
