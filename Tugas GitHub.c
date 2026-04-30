@@ -9,7 +9,6 @@ int main(){
 	scanf("%d", &operasi);
 
 	while (operasi < 1 || operasi > 4) {
-        printf("\nProgram ini menyediakan kalkulator bagi operasi:\n");
         printf("1. Pertambahan\n2. Pengurangan\n3. Perkalian\n4. Pembagian\n");
         printf("Pilihlah salah satu operasi (1-4): ");
         scanf("%d", &operasi);
