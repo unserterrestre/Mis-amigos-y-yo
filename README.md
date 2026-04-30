@@ -5,10 +5,10 @@ Dengan bersenang hati, kami mempersembahkan program yang dibuat oleh kami secara
 
 Kelompok kami terdiri atas empat orang, dan mereka mengemban peran masing-masing. Nama dan peran mereka disajikan di bawah.
 1. Harland Yogananda (2506578333)
-   Ia membantu kami menyusun alur logika serta menentukan fungsi yang tepat untuk menciptakan kalkulator sederhana. Ia juga meninjau kode kami sebelum dikirimkan sebagai pemenuh tugas.
+   Ia merumuskan struktur awal, termasuk kata-kata pembuka, dan menentukan nama-nama variabel yang akan digunakan sampai akhir program.
 2. Muhammad Dwi Yudha Utama (2506622134)
    Ia menciptakan logika dalam fungsi _while_ untuk menghasilkan perulangan yang terus-menerus sampai pengguna program memasukkan nilai yang tepat.
 3. Nicholas Michael Halim (2506590593)
-   Saya memandu perbincangan kelompok, mulai dari penentuan bentuk kode sampai pengiriman tugas kelompok di Emas3. Saya juga bekerja sebagai pembuat sintaksis kode bersama Vikko, serta menerima masukan dari kawan-kawan saya untuk menyempurnakan kode kami.
+   Ia membuat logika selektif _if_ yang mengarahkan pengguna ke jenis perhitungan pertambahan dan pengurangan, yang sesuai dengan nilai yang dimasukkan pada saat pemrogram memasukkan nilai pada bagian awal program. 
 4. Vikko Adibratha (2506585290)
-   Bersama-sama dengan saya, ia merancang sintaksis kode pemrograman dari awal sampai akhir, serta membantu saya menemukan galat yang menghalangi penjalanan kode secara optimal.
+   Ia melanjutkan penyelesaian logika selektif _if_, sehingga pengguna diarahkan ke perhitungan perkalian dan pembagian sebagaimana nilai yang dimasukkan oleh pengguna.
