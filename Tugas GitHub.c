@@ -14,7 +14,7 @@ int main(){
         printf("Pilihlah salah satu operasi (1-4): ");
         scanf("%d", &operasi);
 
-        // Memberikan pesan kesalahan jika input tidak sesuai
+        
         if (operasi < 1 || operasi > 4) {
             printf(">> Pilihan tidak valid. Silakan masukkan angka 1, 2, 3, atau 4.\n");
         }
