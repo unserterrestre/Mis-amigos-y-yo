@@ -3,3 +3,9 @@ if(operasi == 1){
   scanf("%f", bilangan_pertama);
   printf("Berapakah bilangan kedua? Jawaban: ");
   scanf("%f", bilangan_kedua);
+  float hasil = bilangan_pertama + bilangan_kedua;
+  printf("Hasil perhitungan ialah %.2f.", hasil);
+}
+else if(operasi == 2){
+  
+}
